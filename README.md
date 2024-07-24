@@ -1,5 +1,5 @@
 # JAVA_ATM_PROJECT
-"Using NetBeans IDE, I created a Java project named ATM Machine."
+"Using NetBeans IDE, I created a Java project named ATM System Interface."
 
 OUTPUT FOR THE PROJECT TITLED ATM MACHINE INTERFACE USING JAVA:
 
